@@ -1,0 +1,61 @@
+
+body {
+	background-image: url(
+	https://dc722jrlp2zu8.cloudfront.net/media/featured_images/Lenguajes-de-programaci%C3%B3n-m%C3%A1s-utilizados-en-2020.jpg);
+	background-size: cover;
+	background-position: center;
+
+
+	}
+
+h1, h2, h3 {
+ 	color: #c5c2c2;
+ 	text-align: center;
+ }
+
+ h1{
+ 	text-transform: uppercase;
+ 	letter-spacing: 2px
+ }
+
+p{
+	color: #f1e8d8
+}
+ 
+p#footer{
+	color: #000;
+}
+ 
+
+.btn-blue {
+
+     background-color: #3a61e7;
+    color: #dcd0d0;
+    padding: 16px 20px;
+    border-radius: 4px;
+    display: inline-block;
+    text-decoration: none;
+    transition: .3s;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 20px
+}
+
+.cards{
+	display: flex;
+	justify-content: space-around;
+	margin: 30px
+	}
+
+.card-white{
+	flex-basis: 100px;
+
+	
+
+}
+.footer{
+	background: #c5c2c2;
+	color: #000;
+	padding: 20px
+	
+}
